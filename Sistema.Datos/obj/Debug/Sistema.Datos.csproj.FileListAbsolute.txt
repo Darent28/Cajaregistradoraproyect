@@ -1,0 +1,54 @@
+C:\Users\rikim\Desktop\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\rikim\Desktop\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\rikim\Desktop\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\rikim\Desktop\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\rikim\Desktop\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Users\rikim\Desktop\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\rikim\Desktop\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\rikim\Desktop\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\rikim\Desktop\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Datos\bin\Debug\Aspose.PDF.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Datos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Datos\bin\Debug\Aspose.PDF.xml
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Datos\bin\Debug\Aspose.PDF.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Datos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Datos\bin\Debug\Aspose.PDF.xml
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Datos\bin\Debug\Aspose.PDF.dll
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Datos\bin\Debug\BouncyCastle.Crypto.dll
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Datos\bin\Debug\Aspose.PDF.xml
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
