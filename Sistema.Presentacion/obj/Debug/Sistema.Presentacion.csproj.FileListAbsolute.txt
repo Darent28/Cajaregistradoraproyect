@@ -1,0 +1,155 @@
+C:\Users\rikim\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\rikim\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\rikim\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\rikim\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\rikim\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\rikim\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\rikim\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\rikim\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\Users\rikim\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\rikim\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\rikim\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\rikim\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\rikim\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\rikim\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\rikim\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\rikim\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Login.resources
+C:\Users\rikim\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Administrador_Management.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Login.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Devueltos.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.InicioAdmin.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Inventario.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.RegistroEmpleado.resources
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Administrador_Management.resources
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Devueltos.resources
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.EditarProducto.resources
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.InicioAdmin.resources
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Inventario.resources
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Producto.resources
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Login.resources
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.RegistroEmpleado.resources
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.ReporteCajero.resources
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.ReporteVentas.resources
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+D:\Uanl_Drive\OneDrive - Universidad Autonoma de Nuevo León\Repositorios\MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Producto.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.ReporteCajero.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.ReporteVentas.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.ConsultaRecibo.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.InicioCajero.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.VerCajero.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.VerProducto.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.VerModCajero.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Departamento.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.VerModProducto.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Descuentos.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.ElegirCaja.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\bin\Debug\Aspose.PDF.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Sistema\Sistema.Presentacion\bin\Debug\Aspose.PDF.xml
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Aspose.PDF.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Aspose.PDF.xml
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.ConsultaRecibo.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Departamento.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Descuentos.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Devueltos.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.ElegirCaja.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.InicioAdmin.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.InicioCajero.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Inventario.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Producto.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Login.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.RegistroEmpleado.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.ReporteCajero.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.ReporteVentas.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.VerCajero.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.VerModCajero.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.VerModProducto.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.VerProducto.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Aspose.PDF.dll
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\BouncyCastle.Crypto.dll
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Aspose.PDF.xml
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.ConsultaRecibo.resources
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Departamento.resources
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Descuentos.resources
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Devueltos.resources
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.ElegirCaja.resources
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.InicioAdmin.resources
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.InicioCajero.resources
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Inventario.resources
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Producto.resources
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Login.resources
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.RegistroEmpleado.resources
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.ReporteCajero.resources
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.ReporteVentas.resources
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.VerCajero.resources
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.VerModCajero.resources
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.VerModProducto.resources
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.VerProducto.resources
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+D:\asusw\1. UANL\ProyectoMAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Caja.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Caja.resources
+C:\Users\daren\OneDrive\Escritorio\Proyecto MAD\Final MAD\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormaPago.resources
