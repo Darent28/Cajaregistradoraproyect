@@ -1,4 +1,4 @@
-using Sistema.Negocio;
+﻿using Sistema.Negocio;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
